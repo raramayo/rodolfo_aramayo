@@ -7,8 +7,7 @@ nav:
     - Teaching: 03_teaching.md
     - Publications: 04_publications.md
     - Funding: 05_funding.md
-    - Resume: 06_Resume_Aramayo.pdf
-    - Contact: 07_contact.md
+    - Resume: 06_Resume_Rodolfo_Aramayo.pdf
 theme:
   name: 'material'
   # name: 'readthedocs'
