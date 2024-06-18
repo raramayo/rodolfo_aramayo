@@ -1,13 +1,13 @@
 site_name: Rodolfo_Aramayo
 site_url: https://raramayo.github.io/Rodolfo_Aramayo/
 nav:
-    - Home: 00_home.md
+    - Home: index.md
     - About me: 01_about_me.md
     - Research: 02_research.md
     - Teaching: 03_teaching.md
     - Publications: 04_publications.md
     - Funding: 05_funding.md
-    - CV: 06_CV_Aramayo.pdf
+    - Resume: 06_Resume_Aramayo.pdf
     - Contact: 07_contact.md
 theme:
   name: 'material'
