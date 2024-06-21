@@ -37,6 +37,9 @@ theme:
   plugins:
     - search:
     - social:
+    - privacy:
+        links_attr_map:
+          target: "_blank"
   lang: 'en'
 extra:
   social:
@@ -61,4 +64,4 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 copyright: |
-  &copy; 2024 <a href+"https://github.com/raramayo" target="_b;ank" rel="noopener">Rodolfo Aramayo </a>
+  &copy; 2024 <a href+"https://github.com/raramayo" target="_blank" rel="noopener">Rodolfo Aramayo </a>
