@@ -5,9 +5,10 @@ nav:
     - About me: 01_about_me.md
     - Research: 02_research.md
     - Teaching: 03_teaching.md
-    - Publications: 04_publications.md
-    - Funding: 05_funding.md
-    - Resume: 06_Resume_Rodolfo_Aramayo.pdf
+    - Professional Skills: 04_Professional_Skills.md
+    - Publications: 05_publications.md
+    - Funding: 06_funding.md
+    - Resume: 07_Resume_Rodolfo_Aramayo.pdf
 theme:
   name: 'material'
   # name: 'readthedocs'
